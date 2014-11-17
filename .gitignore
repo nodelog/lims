@@ -1,8 +1,9 @@
 *.class
-
+*.settings
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
-
+build/*
+*.svn
 # Package Files #
 *.jar
 *.war
