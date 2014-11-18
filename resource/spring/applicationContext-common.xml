@@ -11,9 +11,9 @@
 	http://www.springframework.org/schema/tx
 	http://www.springframework.org/schema/tx/spring-tx-3.0.xsd">
 	
-<!-- 	<bean id="logger" class="com.psp.util.LoggerImpl"
+ 	<bean id="logger" class="com.psp.util.LoggerImpl"
         init-method="init"></bean>
-	
+	<!--
 	<bean id="jsp" class="com.psp.web.action.common.JspAction"></bean>
 	<bean id="email" class="com.psp.util.email.Email"></bean>
 	<bean id="ftpUpload" class="com.psp.util.FtpUpload"></bean> -->
